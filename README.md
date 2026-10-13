@@ -32,9 +32,7 @@ Or search for "Markdown Diff Preview" in the Extensions sidebar.
 
 1. Download the `.vsix` file from [Releases](https://github.com/YOUR_USERNAME/markdown-diff-preview/releases)
 2. Open VS Code
-3. Go to Extensions → `...` menu → "Install from VSIX..."
-4. Select the downloaded file
-
+dsfsdf
 ## Usage
 
 1. Open any Markdown file in a git repository
@@ -46,6 +44,8 @@ The preview will show your rendered Markdown with:
 - 🟢 **Green highlights** for lines you've added
 - 🔴 **Red highlights** for lines you've removed
 
+
+dfsdf
 ## Configuration
 
 | Setting | Default | Description |
@@ -65,7 +65,7 @@ The preview will show your rendered Markdown with:
 
 - VS Code 1.85.0 or higher
 - Git installed and available in PATH
-- File must be in a git repository to see diff highlighting
+- File must be in a git repository to see diff highlightingdsfsdff
 
 ## Contributing
 
